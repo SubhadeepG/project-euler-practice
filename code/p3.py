@@ -1,5 +1,6 @@
 # Problem 3: Largest Prime Factor
 # What is the largest prime factor of the number 600,851,475,143?
+# Author: Subhadeep Pal Date: 7/10/2026
 
 # first generate prime numbers
 def isPrime(n):
