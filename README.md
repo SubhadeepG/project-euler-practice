@@ -6,3 +6,5 @@ I will focus on solving the first 100 problems.
 ## Problem Description
 * Problem 1: Multiples of 3 or 5, Find the sum of all multiples of 3 or 5 below 1000.
 * Problem 2: Even Fibonacci Numbers.
+* Problem 3: What is the largest prime factor of the number 600,851,475,143?
+* Problem 4: Find the largest palindrome made from the product of two 3-digit numbers.
