@@ -8,3 +8,4 @@ I will focus on solving the first 100 problems.
 * Problem 2: Even Fibonacci Numbers.
 * Problem 3: What is the largest prime factor of the number 600,851,475,143?
 * Problem 4: Find the largest palindrome made from the product of two 3-digit numbers.
+* Problem 7: What is the 10001st prime number?
